@@ -41,7 +41,6 @@ and many more, including code architecture, advanced react hooks, and reusabilit
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.jpg)
 ![Screenshot 1](screenshots/2.jpg)
 ![Screenshot 1](screenshots/3.jpg)
 ![Screenshot 1](screenshots/5.jpg)
